@@ -37,8 +37,10 @@ python -m pytest -v main.py --html=report.html
 
 ---
 
-##HTML 測試報告
 
-![pytest html report](images/report.jpg)
+##  Demo
+
+![測試報告截圖](images/report.jpg)
+
 
 
